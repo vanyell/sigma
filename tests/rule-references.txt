@@ -38,6 +38,7 @@ http://www.windowexe.com/bbs/board.php?q=jsschhlp-exe-c-program-files-common-fil
 http://www.xuetr.com/
 https://0x00sec.org/t/clientside-exploitation-in-2018-how-pentesting-has-changed/7356
 https://0xdf.gitlab.io/2018/11/08/powershell-history-file.html
+https://0xdf.gitlab.io/2024/10/05/htb-freelancer.html#
 https://2019.offzone.moscow/ru/report/hunting-for-powershell-abuses/
 https://4sysops.com/archives/creating-a-complete-memory-dump-without-a-blue-screen/
 https://4sysops.com/archives/use-powershell-to-download-a-file-with-http-https-and-ftp/
@@ -436,6 +437,7 @@ https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-secur
 https://developers.google.com/admin-sdk/reports/v1/appendix/activity/admin-user-settings#GRANT_ADMIN_PRIVILEGE
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.Firewalls.html
 https://developers.google.com/resources/api-libraries/documentation/compute/v1/java/latest/com/google/api/services/compute/Compute.PacketMirrorings.html
+https://developers.google.com/workspace/admin/reports/v1/appendix/activity/login#suspicious_login
 https://developers.onelogin.com/api-docs/1/events/event-resource
 https://developers.onelogin.com/api-docs/1/events/event-resource/
 https://deviceatlas.com/blog/list-of-user-agent-strings#desktop
@@ -449,6 +451,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/APIReference/API_RegisterTaskDefini
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_DeleteDBCluster.html
 https://docs.aws.amazon.com/AmazonRDS/latest/APIReference/API_ModifyDBCluster.html
+https://docs.aws.amazon.com/AmazonS3/latest/API/API_DeleteBucket.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_Operations.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketEncryption.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketLogging.html
@@ -479,6 +482,7 @@ https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRoleWithSAML.html
 https://docs.aws.amazon.com/STS/latest/APIReference/API_GetSessionToken.html
 https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-instance
+https://docs.datadoghq.com/security/default_rules/719-39f-9cd/
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
@@ -489,6 +493,7 @@ https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#private_repository_forking
 https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#ssh_certificate_authority
 https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/about-secret-scanning
+https://docs.github.com/en/enterprise-cloud@latest/code-security/secret-scanning/push-protection-for-repositories-and-organizations
 https://docs.github.com/en/enterprise-cloud@latest/organizations/managing-git-access-to-your-organizations-repositories/about-ssh-certificate-authorities
 https://docs.github.com/en/migrations
 https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/managing-security-and-analysis-settings-for-your-organization
@@ -610,6 +615,7 @@ https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server
 https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-procoption-transact-sql?view=sql-server-ver16
 https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-server-audit-transact-sql?view=sql-server-ver16
 https://docs.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transact-sql?view=sql-server-ver16
+https://docs.microsoft.com/en-us/sql/tools/bcp-utility
 https://docs.microsoft.com/en-us/sql/tools/sqlcmd-utility?view=sql-server-ver15
 https://docs.microsoft.com/en-us/sql/tools/sqlps-utility?view=sql-server-ver15
 https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
@@ -1145,6 +1151,7 @@ https://github.com/mitre-attack/bzar#indicators-for-attck-execution
 https://github.com/mitre-attack/bzar#indicators-for-attck-persistence
 https://github.com/mttaggart/OffensiveNotion
 https://github.com/mttaggart/quasar
+https://github.com/mulwareX/CVE-2025-6218-POC
 https://github.com/murataydemir/CVE-2021-27905
 https://github.com/mvelazc0/PurpleSharp
 https://github.com/MythicAgents/typhon/
@@ -1297,6 +1304,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/73fcfa1d4863f6a4e17f90e54401
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1505.005/T1505.005.md
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1547.015/T1547.015.md#atomic-test-1---persistence-by-modifying-windows-terminal-profile
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1570/T1570.md
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1082/T1082.md
 https://github.com/redcanaryco/atomic-red-team/blob/7e11e9b79583545f208a6dc3fa062f2ed443d999/atomics/T1548.002/T1548.002.md
 https://github.com/redcanaryco/atomic-red-team/blob/84215139ee5127f8e3a117e063b604812bd71928/atomics/T1047/T1047.md#atomic-test-5---wmi-execute-local-process
 https://github.com/redcanaryco/atomic-red-team/blob/84d9edaaaa2c5511144521b0e4af726d1c7276ce/atomics/T1539/T1539.md#atomic-test-2---steal-chrome-cookies-windows
@@ -1629,6 +1637,7 @@ https://github.com/sleventyeleven/linuxprivchecker/blob/0d701080bbf92efd464e97d7
 https://github.com/snovvcrash/DInjector
 https://github.com/splunk/security_content/blob/0dd6de32de2118b2818550df9e65255f4109a56d/detections/endpoint/petitpotam_network_share_access_request.yml
 https://github.com/splunk/security_content/blob/300af51b88ad5d5b27ce4f5f54e4d6e6a3a2c06d/detections/endpoint/office_spawning_control.yml
+https://github.com/splunk/security_content/blob/7283ba3723551f46b69dfeb23a63b358afb2cb0e/lookups/browser_app_list.csv?plain=1
 https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152b42043db/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/office_spawning_control.yml
 https://github.com/splunk/security_content/blob/develop/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
@@ -1659,6 +1668,7 @@ https://github.com/topotam/PetitPotam
 https://github.com/topotam/PetitPotam/blob/d83ac8f2dd34654628c17490f99106eb128e7d1e/PetitPotam/PetitPotam.cpp
 https://github.com/trustedsec/SysmonCommunityGuide/blob/adcdfee20999f422b974c8d4149bf4c361237db7/chapters/file-stream-creation-hash.md
 https://github.com/Twigonometry/Cybersecurity-Notes/blob/c875b0f52df7d2c7a870e75e1f0c2679d417931d/Writeups/Hack%20the%20Box/Boxes/Optimum/10%20-%20Website.md
+https://github.com/TwoSevenOneT/WSASS
 https://github.com/Tylous/ZipExec
 https://github.com/tyranid/DotNetToJScript
 https://github.com/usnistgov/macos_security/blob/932a51f3e819dd3e02ebfcf3ef433cfffafbe28b/rules/os/os_firmware_password_require.yaml
@@ -1721,6 +1731,7 @@ https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.ht
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
@@ -1985,6 +1996,7 @@ https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomput
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-adcomputer?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/activedirectory/get-addefaultdomainpasswordpolicy?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/bitstransfer/add-bitsfile?view=windowsserver2019-ps
+https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference
 https://learn.microsoft.com/en-us/powershell/module/defender/set-mppreference?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dism/disable-windowsoptionalfeature?view=windowsserver2022-ps
 https://learn.microsoft.com/en-us/powershell/module/dnsclient/add-dnsclientnrptrule?view=windowsserver2022-ps
@@ -2342,6 +2354,7 @@ https://man.openbsd.org/ssh_config#ProxyCommand
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
+https://man7.org/linux/man-pages/man2/sysinfo.2.html
 https://man7.org/linux/man-pages/man7/bpf-helpers.7.html
 https://man7.org/linux/man-pages/man8/getcap.8.html
 https://man7.org/linux/man-pages/man8/kmod.8.html
@@ -2957,6 +2970,7 @@ https://tria.ge/240226-fhbe7sdc39/behavioral1
 https://tria.ge/240301-rk34sagf5x/behavioral2
 https://tria.ge/240307-1hlldsfe7t/behavioral2/analog?main_event=Registry&op=SetValueKeyInt
 https://tria.ge/240521-ynezpagf56/behavioral1
+https://tria.ge/241015-l98snsyeje/behavioral2
 https://trustedsec.com/blog/adexplorer-on-engagements
 https://trustedsec.com/blog/oops-i-udld-it-again
 https://trustedsec.com/blog/specula-turning-outlook-into-a-c2-with-one-registry-change
@@ -3162,6 +3176,7 @@ https://twitter.com/killamjr/status/1179034907932315648
 https://twitter.com/kladblokje_88/status/1614673320124743681?s=12&t=joEpeVa5d58aHYNGA_To7Q
 https://twitter.com/kleiton0x7e/status/1600567316810551296
 https://twitter.com/kmkz_security/status/1220694202301976576
+https://twitter.com/Kostastsale/status/1480716528421011458
 https://twitter.com/Kostastsale/status/1565257924204986369
 https://twitter.com/Kostastsale/status/1646256901506605063?s=20
 https://twitter.com/Kostastsale/status/1700965142828290260
@@ -3384,6 +3399,7 @@ https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-governmen
 https://unit42.paloaltonetworks.com/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/
 https://unit42.paloaltonetworks.com/guloader-installing-netwire-rat/
 https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
+https://unit42.paloaltonetworks.com/microsoft-sharepoint-cve-2025-49704-cve-2025-49706-cve-2025-53770/
 https://unit42.paloaltonetworks.com/new-babyshark-malware-targets-u-s-national-security-think-tanks/
 https://unit42.paloaltonetworks.com/operation-ke3chang-resurfaces-with-new-tidepool-malware/
 https://unit42.paloaltonetworks.com/preventing-clickfix-attack-vector/
@@ -3668,6 +3684,7 @@ https://www.elastic.co/security-labs/operation-bleeding-bear
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://www.endorlabs.com/learn/shai-hulud-2-malware-campaign-targets-github-and-cloud-credentials-using-bun-runtime
 https://www.epicturla.com/blog/sysinturla
 https://www.experts-exchange.com/questions/27800944/EventID-18456-Failed-to-open-the-explicitly-specified-database.html
 https://www.exploit-db.com/exploits/19525
@@ -3972,6 +3989,7 @@ https://www.rapid7.com/blog/post/2023/01/19/etr-exploitation-of-control-web-pane
 https://www.rapid7.com/blog/post/2023/02/07/etr-cve-2022-21587-rapid7-observed-exploitation-of-oracle-e-business-suite-vulnerability/
 https://www.rapid7.com/blog/post/2023/06/01/rapid7-observed-exploitation-of-critical-moveit-transfer-vulnerability/
 https://www.rapid7.com/blog/post/2023/10/25/etr-cve-2023-4966-exploitation-of-citrix-netscaler-information-disclosure-vulnerability/
+https://www.rapid7.com/blog/post/tr-bpfdoor-telecom-networks-sleeper-cells-threat-research-report/
 https://www.rarlab.com/vuln_rev3_names.html
 https://www.real-sec.com/2019/04/bypassing-network-restrictions-through-rdp-tunneling/
 https://www.reddit.com/r/crowdstrike/comments/125r3uu/20230329_situational_awareness_crowdstrike/
@@ -4281,6 +4299,7 @@ https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie
 https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
 https://www.zoocoup.org/casper/jamf_cheatsheet.pdf
+https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader
 https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users
 https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east
 https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
